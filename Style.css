@@ -1,0 +1,27 @@
+/* First paragraph */
+ol:nth-of-type(1) {
+    color:blue;font-size:50px;
+  }
+  /* Second paragraph */
+ol:nth-of-type(2) {color:grey;
+
+}
+/* Third paragraph */
+ol:nth-of-type(3) { color:green;font-size:8px;
+
+}
+/* Fourth paragraph */
+ol:nth-of-type(4) { color:orange;text-align: right; font-weight: bold;
+
+}
+/* Fifth paragraph */
+ol:nth-of-type(5) { color:pink;text-align: justified; font-family: Tahoma;
+
+}
+/* Sixth paragraph */
+ol:nth-of-type(6) { color:purple;font-family:Roboto, Helvectica,sans-serif;text-decoration: underline
+
+}
+/* Seventh paragraph */
+ol:nth-of-type(7) { background:yellow;font-family:Comic sans MS, Comic Sans,Brush Script MT;line-height: 25px;
+}
