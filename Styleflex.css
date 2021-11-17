@@ -10,7 +10,7 @@
       font-size: 20px;
     }
     
-    .mpdiv {
+    .mp-div {
         padding: 20px;
         margin: 15px;
       }
@@ -30,14 +30,14 @@
       font-size: 50px;
     }
 
-    .mpdiv {
+    .mp-div {
         padding: 30px;
         margin: 25px;
       }
 
       .flexible-layout {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
       }
 }
