@@ -35,9 +35,17 @@
         margin: 25px;
       }
 
-      .flexible-layout {
-        display: flex;
-        justify-content: center;
-        align-items: center;
+      .grid-layout {
+        display: grid;
+        grid-template-columns: auto 500px;
+        grid-template-rows: auto auto;
+        gap: 20px;
+      }
+
+      img {
+        grid-column-start: 2;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
       }
 }
